@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> #### Just Published a fresh new add-on, wanna check it out?
+> Here's the ![link](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
+
 <!--
 **chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
