@@ -3,6 +3,9 @@
 > #### Just Published a fresh new add-on, wanna check it out?
 > Here's the link: [https://addons.mozilla.org/en-US/firefox/addon/freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
+> #### Here's one python 🐍 package which I've developed.
+> Here's the link: [https://pypi.org/project/indian-cities/](https://pypi.org/project/indian-cities/)
+
 <!--
 **chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
