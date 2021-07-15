@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Python developer 🐍, with experience in Django and flask.
+Also I like to run the jupyter notebook on weekends for hobby ML projects.
+
+---
+My Favourite IDE is Pycharm <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="20">
+
+---
+
 > #### Just Published a fresh new add-on, wanna check it out?
 > Here's the link: [https://addons.mozilla.org/en-US/firefox/addon/freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
