@@ -3,8 +3,7 @@
 I am a Python developer 🐍, with experience in Django and flask.
 Also I like to run the jupyter notebook on weekends for hobby ML projects.
 
----
-My Favourite IDE is Pycharm <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="20">
+Recently I am working on nodeJs.
 
 ---
 
