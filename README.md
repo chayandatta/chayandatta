@@ -3,7 +3,6 @@
 I am a Python developer 🐍, with experience in Django and flask.
 Also I like to run the jupyter notebook on weekends for hobby ML projects.
 
-Recently I am working on nodeJs.
 
 ---
 
