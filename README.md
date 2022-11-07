@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Python developer 🐍, with experience in Django and flask.
-Also I like to run the jupyter notebook on weekends for hobby ML projects.
-
+My Name is Chayan Datta, <br>
+I am a [Python](https://www.python.org/) developer 🐍, with experience in [Django](https://www.djangoproject.com/). <br>
+Currently working in [Julia](https://julialang.org/) & [VueJs](https://vuejs.org/)
 
 ---
 
