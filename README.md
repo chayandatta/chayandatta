@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/chayandatta/chayandatta/master/animations/demo.gif)
 ### Hi there 👋
 
 - 🔭 My Name is Chayan Datta, <br>
@@ -26,3 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- The gophers Credit goes to [egonelbre/gophers](https://github.com/egonelbre/gophers). -->
