@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/chayandatta/chayandatta/master/animations/demo.gif)
+<img src="https://raw.githubusercontent.com/chayandatta/chayandatta/master/animations/waving-flag.gif" width="200" height="150">![](https://raw.githubusercontent.com/chayandatta/chayandatta/master/animations/demo.gif)
 ### Hi there 👋
 
 - 🔭 My Name is Chayan Datta, <br>
