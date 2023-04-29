@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning [Julia](https://julialang.org/), [Go](https://go.dev/) & [VueJs](https://vuejs.org/)
 
 ---
+> #### My first ever Julia <img src="https://user-images.githubusercontent.com/32599474/235298466-e6256957-4556-4343-9542-0c23e56a5a16.png" alt= “” width="15" height="15"> package : [Slugify.jl](https://juliahub.com/ui/Packages/Slugify/ofVwp/1.0.0)
 
-> #### I had Published a add-on, wanna check it out?
-> Here's the link: [https://addons.mozilla.org/en-US/firefox/addon/freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
-> #### Here's one python 🐍 package which I've developed.
-> Here's the link: [https://pypi.org/project/indian-cities/](https://pypi.org/project/indian-cities/) [![Downloads](https://pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+> #### I had Published an add-on for firefox : [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
+
+> #### Here's one python 🐍 package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
 
 <!--
 **chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
