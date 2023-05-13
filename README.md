@@ -11,7 +11,7 @@
 
 > #### I had Published an add-on for firefox : [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
-> #### Here's one python <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+> #### Here's one python <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
 
 <!--
 **chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
