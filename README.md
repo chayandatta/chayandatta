@@ -8,9 +8,9 @@
 > #### My first ever Julia <img src="https://user-images.githubusercontent.com/32599474/235298466-e6256957-4556-4343-9542-0c23e56a5a16.png" alt= “” width="15" height="15"> package : [Slugify.jl](https://juliahub.com/ui/Packages/Slugify/ofVwp/1.0.0)
 
 
-> #### I had Published an add-on for firefox : [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
+> #### Add-on for firefox : [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
-> #### Here's one python <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+> #### Python <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
 
 <!--
 **chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
