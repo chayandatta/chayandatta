@@ -35,4 +35,3 @@ A Python package containing structured datasets of Indian cities.
   <a href="https://medium.com/@chayandatta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
----
