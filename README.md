@@ -1,37 +1,31 @@
-<h1 align="center">Hi there 👋, I'm Chayan Datta</h1>
+### Hi there 👋
 
-<p align="center">
-  <em> Software Engineer • Full Stack & Systems Design Enthusiast</em>
-</p>
-
----
+- 🔭 My Name is Chayan Datta, <br>
 - ⚡ I am a [Python](https://www.python.org/) <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> developer , with experience in [Django](https://www.djangoproject.com/). <br>
 - 🌱 I’m currently learning [Julia](https://julialang.org/), [Go](https://go.dev/) & [VueJs](https://vuejs.org/)
 
 ---
+> #### My first ever Julia <img src="https://user-images.githubusercontent.com/32599474/235298466-e6256957-4556-4343-9542-0c23e56a5a16.png" alt= “” width="15" height="15"> package : [Slugify.jl](https://juliahub.com/ui/Packages/Slugify/ofVwp/1.0.0)
 
-### 🚀 Few Published Works
 
-#### 🧩 [Slugify.jl](https://juliahub.com/ui/Packages/Slugify/ofVwp/1.0.0)
-My first Julia package — a lightweight text slugification utility for developers.
+> #### Add-on for firefox : [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
 
-#### 🦊 [freshtabs](https://addons.mozilla.org/en-US/firefox/addon/freshtabs/)
-A clean, minimalist Firefox add-on for refreshing new tab experiences.
+> #### Python <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> package which I've developed : [Indian cities](https://pypi.org/project/indian-cities/) [![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
 
-#### 🐍 [Indian Cities](https://pypi.org/project/indian-cities/)
-A Python package containing structured datasets of Indian cities.  
-[![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+<!--
+**chayandatta/chayandatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-### 🌐 Connect With Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<p align="center">
-  <a href="https://github.com/chayandatta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/chayandatta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chayandatta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://huggingface.co/chayandatta"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://www.kaggle.com/chayandatta"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://medium.com/@chayandatta"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
+<!-- The gophers Credit goes to [egonelbre/gophers](https://github.com/egonelbre/gophers). -->
