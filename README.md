@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 My Name is Chayan Datta, <br>
-- ⚡ I am a [Python](https://www.python.org/) <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> developer , with experience in [Django](https://www.djangoproject.com/). <br>
+- ⚡ I am a [Python](https://www.python.org/) <img src="https://user-images.githubusercontent.com/32599474/235298777-995b15cb-d105-4779-8702-6537ee6a5d59.png" alt= “” width="15" height="15"> developer , with experience in [Django](https://www.djangoproject.com/), [DRF](https://www.django-rest-framework.org/) & [FastAPI](https://fastapi.tiangolo.com/) <br>
 - 🌱 I’m currently learning [Julia](https://julialang.org/), [Go](https://go.dev/) & [VueJs](https://vuejs.org/)
 
 ---
